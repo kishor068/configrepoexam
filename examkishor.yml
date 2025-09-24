@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: examkishor
+
+server:
+  port: 6010
